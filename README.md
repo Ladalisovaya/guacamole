@@ -6,4 +6,4 @@
 print('Helo world')
 ```
 [Link](https://github.com/Ladalisovaya/guacamole/edit/main/README.md)
-table 
+
